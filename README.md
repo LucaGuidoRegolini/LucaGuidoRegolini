@@ -2,7 +2,7 @@
 
 Me chamo Luca, sou estudante de analise e desenvolvimento de sistemas,  tenho experiência em  NodeJS e ReactJS, alem de saber um pouco de Python e Kotlin.
 
-Meu curriculo para mais detalhes: https://luca-guido-reglini.netlify.app/
+Meu curriculo para mais detalhes: <a href="https://luca-guido-reglini.netlify.app/" target="_blank">https://luca-guido-reglini.netlify.app/</a>
 
 <!--
 **LucaGuidoRegolini/LucaGuidoRegolini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
