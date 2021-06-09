@@ -1,7 +1,10 @@
 ## Ola 👋
 
-Me chamo Luca, sou estudante de analise e desenvolvimento de sistemas,  tenho experiência em ReactJS e VueJS alem de saber um pouco de Python e Java, 
-e no mobile sei um pouco de Kotlin e Flutter
+Me chamo Luca, estou no 4 semestre de analise e desenvolvimento de sistema, já acumulei muita
+experiência teórica na minha área e gostaria de pô-la em pratica. Tenho
+conhecimento suficiente para atuar tanto no back-end como front-end e atualmente
+estou buscando por tecnologias para desenvolvimento de aplicativos mobile.
+
 
 Meu curriculo para mais detalhes: <a href="https://luca-guido-regolini.netlify.app/" target="_blank">https://luca-guido-reglini.netlify.app/</a>
 
