@@ -17,7 +17,7 @@ Me chamo Luca, estou no 4 semestre de analise e desenvolvimento de sistema, já 
   <img src="https://img.shields.io/badge/Docker-0091e2?style=for-the-badge&logo=docker&logoColor=white"></img>
   
   ## <img src="https://raw.githubusercontent.com/LucaGuidoRegolini/imagens/main/Handshake.gif?token=AQ3TQ7DF277LYS5D6AH6KUTA25ITO" width="70px"> Entre em Contato
-  <a href="https://www.linkedin.com/in/luca-guido-regolini/" target="_blank"><img src="https://img.shields.io/badge/luca_Guido_Regolini-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img><a> <img src="https://img.shields.io/badge/lucagregolini@gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white"></img>
+  <a href="https://www.linkedin.com/in/luca-guido-regolini/" target="_blank"><img src="https://img.shields.io/badge/luca_Guido_Regolini-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img><a> <a data-v-0df864cc="" href="mailto:lucagregolini@gmail.com"><img src="https://img.shields.io/badge/lucagregolini@gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white"></img></a>
 
 <img src="https://raw.githubusercontent.com/LucaGuidoRegolini/imagens/main/dormrm.gif?token=AQ3TQ7GX4Y72FWAFGA5JVZLA25IMA"></img>
   
