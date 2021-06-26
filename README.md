@@ -1,9 +1,7 @@
 ## Ola 👋
 
-Me chamo Luca, estou no 4 semestre de analise e desenvolvimento de sistema, já acumulei muita
-experiência teórica na minha área e gostaria de pô-la em pratica. Tenho
-conhecimento suficiente para atuar tanto no back-end como front-end e atualmente
-estou buscando por tecnologias para desenvolvimento de aplicativos mobile.
+Me chamo Luca, estou no 4 semestre de analise e desenvolvimento de sistema, já acumulei muita experiência teórica na minha área e gostaria de pô-la em pratica. Tenho conhecimento suficiente para atuar tanto no back-end como front-end e atualmente estou buscando por tecnologias para desenvolvimento de aplicativos mobile,  já trabalhei com diversos banco de dados SQL como MySQL, Postgres e SQL Server, e banco de dados NoSQL como MongoDB. Fiz uso de tecnologias de virtualização como Docker, e tenho certificado em desenvolvimento Linux.
+
 
 
 LinkedIn: <a href="https://www.linkedin.com/in/luca-guido-regolini/" target="_blank">linkedin.com/in/luca-guido-regolini/</a>
