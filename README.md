@@ -6,7 +6,7 @@ conhecimento suficiente para atuar tanto no back-end como front-end e atualmente
 estou buscando por tecnologias para desenvolvimento de aplicativos mobile.
 
 
-Meu curriculo para mais detalhes: <a href="https://luca-guido-regolini.netlify.app/" target="_blank">https://luca-guido-reglini.netlify.app/</a>
+LinkedIn: <a href="https://www.linkedin.com/in/luca-guido-regolini/" target="_blank">linkedin.com/in/luca-guido-regolini/</a>
 
 <!--
 **LucaGuidoRegolini/LucaGuidoRegolini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
