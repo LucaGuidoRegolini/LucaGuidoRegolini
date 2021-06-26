@@ -1,4 +1,4 @@
-## <img src="https://raw.githubusercontent.com/LucaGuidoRegolini/imagens/main/Hi.gif?token=AQ3TQ7AUPBUV3UXNTSLXW53A25INK" width="30px"></img> Ola
+## <img src="https://docs.google.com/uc?id=10HjJFyqwZOsm51kwHSgpyDTNjakjWN5F" width="30px"></img> Ola
 
 Me chamo Luca, estou no 4 semestre de analise e desenvolvimento de sistema, já acumulei muita experiência teórica na minha área e gostaria de pô-la em pratica. Tenho conhecimento suficiente para atuar tanto no back-end como front-end e atualmente estou buscando por tecnologias para desenvolvimento de aplicativos mobile,  já trabalhei com diversos banco de dados SQL como MySQL, Postgres e SQL Server, e banco de dados NoSQL como MongoDB. Fiz uso de tecnologias de virtualização como Docker, e tenho certificado em desenvolvimento Linux.
   
@@ -16,10 +16,10 @@ Me chamo Luca, estou no 4 semestre de analise e desenvolvimento de sistema, já 
   <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08"></img>
   <img src="https://img.shields.io/badge/Docker-0091e2?style=for-the-badge&logo=docker&logoColor=white"></img>
   
-  ## <img src="https://raw.githubusercontent.com/LucaGuidoRegolini/imagens/main/Handshake.gif?token=AQ3TQ7DF277LYS5D6AH6KUTA25ITO" width="70px"> Entre em Contato
+  ## <img src="https://docs.google.com/uc?id=1saNSRgM40Oih48gOy_SHvgEPzr5oUMQx" width="70px"> Entre em Contato
   <a href="https://www.linkedin.com/in/luca-guido-regolini/" target="_blank"><img src="https://img.shields.io/badge/luca_Guido_Regolini-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img><a> <a data-v-0df864cc="" href="mailto:lucagregolini@gmail.com"><img src="https://img.shields.io/badge/lucagregolini@gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white"></img></a>
 
-<img src="https://raw.githubusercontent.com/LucaGuidoRegolini/imagens/main/dormrm.gif?token=AQ3TQ7GX4Y72FWAFGA5JVZLA25IMA"></img>
+<img src="https://docs.google.com/uc?id=1XRh-ZfhncyeLPXpFGztKBwqKx56E48Y3"></img>
   
   
 
