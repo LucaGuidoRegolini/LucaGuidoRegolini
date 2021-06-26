@@ -18,3 +18,9 @@ Me chamo Luca, estou no 4 semestre de analise e desenvolvimento de sistema, já 
   <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08"><img>
   <img src="https://img.shields.io/badge/Docker-0091e2?style=for-the-badge&logo=docker&logoColor=white"><img>
   
+  
+  <img src="http://clubedosgeeks.com.br/wp-content/uploads/2016/01/dormrm.gif" ><img>
+  
+  
+
+  
