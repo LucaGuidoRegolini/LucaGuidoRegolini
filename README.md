@@ -1,8 +1,6 @@
-## Ola 👋
+## <img src="https://raw.githubusercontent.com/LucaGuidoRegolini/imagens/main/Hi.gif?token=AQ3TQ7HN4VLS6WOR5OF3IYTA25GQW" width="30px"><img> Ola
 
 Me chamo Luca, estou no 4 semestre de analise e desenvolvimento de sistema, já acumulei muita experiência teórica na minha área e gostaria de pô-la em pratica. Tenho conhecimento suficiente para atuar tanto no back-end como front-end e atualmente estou buscando por tecnologias para desenvolvimento de aplicativos mobile,  já trabalhei com diversos banco de dados SQL como MySQL, Postgres e SQL Server, e banco de dados NoSQL como MongoDB. Fiz uso de tecnologias de virtualização como Docker, e tenho certificado em desenvolvimento Linux.
-
-<a href="https://www.linkedin.com/in/luca-guido-regolini/" target="_blank"><img src="https://img.shields.io/badge/luca_Guido_Regolini-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"><img><a>
   
 ## Linguagens e ferramentas
   
@@ -18,8 +16,10 @@ Me chamo Luca, estou no 4 semestre de analise e desenvolvimento de sistema, já 
   <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08"><img>
   <img src="https://img.shields.io/badge/Docker-0091e2?style=for-the-badge&logo=docker&logoColor=white"><img>
   
-  
-  <img src="http://clubedosgeeks.com.br/wp-content/uploads/2016/01/dormrm.gif" ><img>
+  ## <img src="https://raw.githubusercontent.com/LucaGuidoRegolini/imagens/main/Handshake.gif?token=AQ3TQ7GNAIM3L7N3EW7WOW3A25HJO" width="70px"> Entre em Contato
+  <a href="https://www.linkedin.com/in/luca-guido-regolini/" target="_blank"><img src="https://img.shields.io/badge/luca_Guido_Regolini-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"><img><a> <a href="lucagregolini@gmail.com" target="_blank"><img src="https://img.shields.io/badge/luca_Guido_Regolini-ea4335?style=for-the-badge&logo=gmail&logoColor=white"><img><a>
+
+<img src="https://raw.githubusercontent.com/LucaGuidoRegolini/imagens/main/dormrm.gif?token=AQ3TQ7CRJ5TM6GCLQLYZ2ZDA25GKG"><img>
   
   
 
