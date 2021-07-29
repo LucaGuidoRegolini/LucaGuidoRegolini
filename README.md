@@ -1,6 +1,6 @@
 ## <img src="https://docs.google.com/uc?id=10HjJFyqwZOsm51kwHSgpyDTNjakjWN5F" width="30px"></img> Ola
 
-Me chamo Luca, estou no 4 semestre de analise e desenvolvimento de sistema, já acumulei muita experiência teórica na minha área e gostaria de pô-la em pratica. Tenho conhecimento suficiente para atuar tanto no back-end como front-end e atualmente estou buscando por tecnologias para desenvolvimento de aplicativos mobile,  já trabalhei com diversos banco de dados SQL como MySQL, Postgres e SQL Server, e banco de dados NoSQL como MongoDB. Fiz uso de tecnologias de virtualização como Docker, e tenho certificado em desenvolvimento Linux.
+Me chamo Luca, estou no 5 semestre de analise e desenvolvimento de sistema, já acumulei muita experiência teórica na minha área e gostaria de pô-la em pratica. Tenho conhecimento suficiente para atuar tanto no back-end como front-end e atualmente estou buscando por tecnologias para desenvolvimento de aplicativos mobile,  já trabalhei com diversos banco de dados SQL como MySQL, Postgres e SQL Server, e banco de dados NoSQL como MongoDB. Fiz uso de tecnologias de virtualização como Docker, e tenho certificado em desenvolvimento Linux.
   
 ## Linguagens e ferramentas
   
