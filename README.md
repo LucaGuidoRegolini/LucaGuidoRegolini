@@ -1,8 +1,10 @@
 ## <img src="https://docs.google.com/uc?id=10HjJFyqwZOsm51kwHSgpyDTNjakjWN5F" width="30px"></img> Ola
 
-Me chamo Luca, estou no 5 semestre de analise e desenvolvimento de sistema, já acumulei muita experiência teórica na minha área e gostaria de pô-la em pratica. Tenho conhecimento suficiente para atuar tanto no back-end como front-end e atualmente estou buscando por tecnologias para desenvolvimento de aplicativos mobile,  já trabalhei com diversos banco de dados SQL como MySQL, Postgres e SQL Server, e banco de dados NoSQL como MongoDB. Fiz uso de tecnologias de virtualização como Docker, e tenho certificado em desenvolvimento Linux.
+Hello, I am Luca, I've been in the development area for 1 year, I'm currently in the sixth semester in system analysis and development by FATEC São Caetano do Sul.
+I have a lot of knowledge in Web development, mainly with ReactJS, React Native, VueJS and Express frameworks, but I have already developed projects in Java, Python and C++.
+I am always studying and willing to learn any technology necessary to get the best possible results.
   
-## Linguagens e ferramentas
+## Languages and tools
   
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></img>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></img>
