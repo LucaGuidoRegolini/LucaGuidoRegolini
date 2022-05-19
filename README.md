@@ -18,7 +18,7 @@ I am always studying and willing to learn any technology necessary to get the be
   <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08"></img>
   <img src="https://img.shields.io/badge/Docker-0091e2?style=for-the-badge&logo=docker&logoColor=white"></img>
   
-  ## <img src="https://docs.google.com/uc?id=1saNSRgM40Oih48gOy_SHvgEPzr5oUMQx" width="70px"> Contact Me
+  ## <img src="https://docs.google.com/uc?id=1saNSRgM40Oih48gOy_SHvgEPzr5oUMQx" width="70px"> Contact Me 
   <a href="https://www.linkedin.com/in/luca-guido-regolini/" target="_blank"><img src="https://img.shields.io/badge/luca_Guido_Regolini-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img><a> <a data-v-0df864cc="" href="mailto:lucagregolini@gmail.com"><img src="https://img.shields.io/badge/lucagregolini@gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white"></img></a>
 
 <img src="https://docs.google.com/uc?id=1XRh-ZfhncyeLPXpFGztKBwqKx56E48Y3"></img>
