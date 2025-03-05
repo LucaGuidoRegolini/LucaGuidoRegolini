@@ -1,0 +1,23 @@
+name: Atualizar Badges da Credly
+
+on:
+  schedule:
+    # Executa diariamente às 2h UTC
+    - cron: "0 2 * * *"
+  workflow_dispatch: # Permite execução manual do workflow
+
+permissions:
+  contents: write # Permissão para escrever no conteúdo do repositório
+
+jobs:
+  update-readme:
+    name: Atualizar README com badges
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout do repositório
+        uses: actions/checkout@v2
+
+      - name: Atualizar badges no README
+        uses: pemtajo/badge-readme@main
+        with:
+          CREDLY_USER: luca-guido-regolini # substitua pelo seu nome de usuário na Credly
