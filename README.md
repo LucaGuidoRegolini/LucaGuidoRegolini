@@ -4,6 +4,10 @@ I'm Luca, I've been in the development area for 2 years, I graduated in systems 
 I have a lot of knowledge in backend development, mainly with typescript and Go Lang languages, but I have already developed projects in Java, Python and C++.<br>
 I have already developed projects with Kubernets, Terraform and ansible.<br>
 I am always studying and willing to learn any technology needed to get the best possible results.
+
+## Certificates
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
   
 ## Languages and tools
   
