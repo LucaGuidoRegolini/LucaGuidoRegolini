@@ -7,6 +7,7 @@ I am always studying and willing to learn any technology needed to get the best 
 
 ## Certificates
 <!--START_SECTION:badges-->
+[![AWS Certified Solutions Architect – Associate](https://images.credly.com/size/110x110/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png)](http://www.credly.com/badges/1663df0e-9c76-403b-9686-72e62b49d477 "AWS Certified Solutions Architect – Associate")
 <!--END_SECTION:badges-->
   
 ## Languages and tools
